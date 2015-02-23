@@ -75,10 +75,10 @@
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Vectrosity">
- <HintPath>C:/Users/Kenneth/Documents/GitHub/Isthmus-Rafting/MetaApps/Assets/Meta Packages/Vectrosity/Vectrosity.dll</HintPath>
+ <HintPath>C:/Users/lperez/Documents/GitHub/Isthmus-Rafting/MetaApps/Assets/Meta Packages/Vectrosity/Vectrosity.dll</HintPath>
  </Reference>
  <Reference Include="Meta">
- <HintPath>C:/Users/Kenneth/Documents/GitHub/Isthmus-Rafting/MetaApps/Assets/MetaDLL/Meta.dll</HintPath>
+ <HintPath>C:/Users/lperez/Documents/GitHub/Isthmus-Rafting/MetaApps/Assets/MetaDLL/Meta.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
