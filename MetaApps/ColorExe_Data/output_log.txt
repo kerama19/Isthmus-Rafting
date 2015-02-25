@@ -16,7 +16,7 @@ Platform assembly: C:\Users\lperez\Documents\GitHub\Isthmus-Rafting\MetaApps\Col
 Loading C:\Users\lperez\Documents\GitHub\Isthmus-Rafting\MetaApps\ColorExe_Data\Managed\Vectrosity.dll into Unity Child Domain
 Platform assembly: C:\Users\lperez\Documents\GitHub\Isthmus-Rafting\MetaApps\ColorExe_Data\Managed\Meta.dll (this message is harmless)
 Loading C:\Users\lperez\Documents\GitHub\Isthmus-Rafting\MetaApps\ColorExe_Data\Managed\Meta.dll into Unity Child Domain
-- Completed reload, in  0.434 seconds
+- Completed reload, in  0.055 seconds
 desktop: 1920x1080 29Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
